@@ -1,0 +1,5 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  VC_ExampleDlg.cpp
+c:\users\prime#68\desktop\psl-daq rmsw\software\sw-korean\psl-daq visual c++ libray\[예제 소스 파일]\vc_example\vc_exampledlg.cpp(463): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+  VC_Example.vcxproj -> C:\Users\PRIME#68\Desktop\PSL-DAQ RMSW\Software\SW-Korean\PSL-DAQ Visual C++ Libray\[예제 소스 파일]\Debug\VC_Example.exe
